@@ -1,7 +1,7 @@
 # ZdeHav-RP2040-SFTTH
 Stepper, fan, thermistor, thermistor and heater. Does it work? I don't know yet. But I hope so.
 
-#What I know is wrong even now lol
+# What I know is wrong even now lol
 BAV99W - has different mounting pads - one is meant for hand soldering, one for machine. Not a hard issue.
 SK310A-TP D3, D4 - also different mounting style, this IS BAD. I missed this one. I only found 40V/0.3A schottky in 0603 - AND THATS NOT ENOUGH.
 
